@@ -2,7 +2,7 @@ repo_name: ibrahimbayramli/tech-interview-handbook
 report_id: 926cb540aa075d17b4b79461c2b9ab28
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:08:48+00:00'
+timestamp: '2024-02-29T18:20:32+00:00'
 requested_by: BryannYeap
 provider: github
 branch: main
@@ -76,7 +76,7 @@ tools:
   last_updated_by: Yangshun Tay
   last_updated_on: 2022-09-29 08:23:34.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.3.1
   open_source: true
@@ -179,7 +179,7 @@ tools:
   last_updated_by: Yangshun Tay
   last_updated_on: 2022-10-10 23:43:29.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
